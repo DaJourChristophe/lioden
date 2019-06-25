@@ -1,0 +1,13 @@
+{
+  "name": "node-sandbox",
+  "version": "1.0.0",
+  "description": "Simple Node Sandbox",
+  "main": "src/index.js",
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {
+    "sails": "1.2.3"
+  },
+  "devDependencies": {}
+}
